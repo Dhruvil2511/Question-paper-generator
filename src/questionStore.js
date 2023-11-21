@@ -1,7 +1,12 @@
 const fs = require('fs');
 const path = require('path');
 
-
+/**
+ * Retrieves and parses questions from a data file.
+ *
+ * @returns {Array} An array of questions.
+ * @throws {Error} If there's an error reading or parsing the data file.
+ */
 function getAllQuestions() {
     const dataFilePath = path.join(__dirname, '../data/questions.json');
     try {
