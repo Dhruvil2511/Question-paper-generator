@@ -1,0 +1,408 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "subject": "Geography",
+    "topic": "World Capitals",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Who is the author of 'To Kill a Mockingbird'?",
+    "subject": "Literature",
+    "topic": "Authors",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Solve the equation: 2x + 5 = 15",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "In which year did Christopher Columbus reach the Americas?",
+    "subject": "History",
+    "topic": "Exploration",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Describe the process of photosynthesis.",
+    "subject": "Biology",
+    "topic": "Botany",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "subject": "Physics",
+    "topic": "Theoretical Physics",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "What is the largest mammal on Earth?",
+    "subject": "Biology",
+    "topic": "Marine Biology",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the square root of 64?",
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Name three types of clouds.",
+    "subject": "Meteorology",
+    "topic": "Weather",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "subject": "Art",
+    "topic": "Famous Paintings",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "subject": "Geography",
+    "topic": "World Capitals",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "subject": "Literature",
+    "topic": "Shakespeare",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the formula for calculating the area of a circle?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Who is known as the 'Father of Computer Science'?",
+    "subject": "Computer Science",
+    "topic": "Pioneers",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "subject": "Chemistry",
+    "topic": "Physical Chemistry",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Name the seven continents.",
+    "subject": "Geography",
+    "topic": "World Geography",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the speed of sound in air?",
+    "subject": "Physics",
+    "topic": "Acoustics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "subject": "Medicine",
+    "topic": "Medical History",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "What is the function of the mitochondria?",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the Pythagorean theorem?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Name three elements in the periodic table.",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "subject": "History",
+    "topic": "U.S. Presidents",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Define velocity in physics.",
+    "subject": "Physics",
+    "topic": "Kinematics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the difference between a plant cell and an animal cell?",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Who wrote 'The Hitchhiker's Guide to the Galaxy'?",
+    "subject": "Literature",
+    "topic": "Science Fiction",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "What is the currency of Australia?",
+    "subject": "Economics",
+    "topic": "Currencies",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Who discovered the structure of DNA?",
+    "subject": "Biology",
+    "topic": "Genetics",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Solve the equation: 3y - 7 = 20",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "subject": "Geography",
+    "topic": "Rivers",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Who painted 'Starry Night'?",
+    "subject": "Art",
+    "topic": "Famous Paintings",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the molecular formula of water?",
+    "subject": "Chemistry",
+    "topic": "Molecules",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "subject": "History",
+    "topic": "Maritime History",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Define entropy in thermodynamics.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Name three classical Greek philosophers.",
+    "subject": "Philosophy",
+    "topic": "Ancient Philosophy",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the formula for calculating density?",
+    "subject": "Physics",
+    "topic": "Density",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Who wrote 'The Great Gatsby'?",
+    "subject": "Literature",
+    "topic": "American Literature",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "subject": "Geography",
+    "topic": "World Capitals",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the primary function of the kidneys?",
+    "subject": "Biology",
+    "topic": "Human Anatomy",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the boiling point of nitrogen in Kelvin?",
+    "subject": "Chemistry",
+    "topic": "Physical Chemistry",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Who invented the telephone?",
+    "subject": "Inventions",
+    "topic": "Communication",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Name three famous constellations.",
+    "subject": "Astronomy",
+    "topic": "Constellations",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the speed of light in a vacuum?",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Define natural selection in biology.",
+    "subject": "Biology",
+    "topic": "Evolution",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the formula for the area of a rectangle?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Who wrote '1984'?",
+    "subject": "Literature",
+    "topic": "Dystopian Fiction",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "subject": "Geography",
+    "topic": "World Capitals",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "subject": "Literature",
+    "topic": "Playwrights",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Solve the inequality: 3y - 7 < 14",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the chemical symbol for silver?",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "subject": "History",
+    "topic": "Maritime Disasters",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Explain the process of mitosis in cell division.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Who proposed the theory of quantum mechanics?",
+    "subject": "Physics",
+    "topic": "Quantum Physics",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Which animal is known as the 'king of the jungle'?",
+    "subject": "Biology",
+    "topic": "Wildlife",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the cube root of 27?",
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Name three types of precipitation.",
+    "subject": "Meteorology",
+    "topic": "Weather",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Who sculpted the Statue of David?",
+    "subject": "Art",
+    "topic": "Sculpture",
+    "difficulty": "Medium",
+    "marks": 10
+  }
+]
