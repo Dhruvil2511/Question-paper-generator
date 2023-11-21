@@ -27,7 +27,17 @@ Assume the below requirement for a question paper:
 The problem statement here is that you need to generate a question paper of 100 marks total of which 20% (ie, 20 marks) worth of questions should have the *Difficulty*=Easy, 50% having *Difficulty*=Medium and 30% having *Difficulty*=Hard
 
 
-## Getting Started
+## Getting Started with Solution
+Questions are stored inside data directory in .json format
+Marks according to difficulty
+- Easy : 5 marks
+- Medium : 10 marks
+- Hard : 15 marks
+### Inside src
+Three files inside src
+- app.js -> mainpoint of app
+- questionStore.js module -> Retrieves and parses questions from a data file.
+- questionPaperGenerator.js module -> Generates a random set of questions based on difficulty level and distribution.
 
 ### Prerequisites
 
