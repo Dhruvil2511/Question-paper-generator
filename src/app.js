@@ -72,8 +72,8 @@ app.post('/generate', async (req, res) => {
     if (questionPaper === null) return res.status(400).json({ success: false, message: 'Invalid distribution according to marks or Insufficient questions to meet the desired distribution.' });
     if (questionPaper.length === 0) return res.status(400).json({ success: false, message: 'No questions found or some errors occurred' });
 
-    console.log('Question paper: ');
-    console.log(questionPaper);
+   // console.log('Question paper: ');
+   // console.log(questionPaper);
     res.json({ success: true, questionPaper });
 
 });
